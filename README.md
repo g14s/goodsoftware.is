@@ -1,1 +1,1 @@
-# goodsoftware-is
+# goodsoftware.is
